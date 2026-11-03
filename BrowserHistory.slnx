@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BrowserHistory.Core/BrowserHistory.Core.csproj" />
+  <Project Path="BrowserHistory.App/BrowserHistory.App.csproj" />
+  <Project Path="BrowserHistory.Tests/BrowserHistory.Tests.csproj" />
+</Solution>
